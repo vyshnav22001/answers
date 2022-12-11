@@ -1,0 +1,5 @@
+A. reverse-i-search is used to find past commands
+B.The ls command lists the contents of the current directory. The –a switch lists all files – including hidden files.So we can use ls -a command
+ for  list out the hidden directories.
+C.linux based OS like Ubuntu are very easy to use.The best part is that other OS doesn't give us that much freedom as Linux
+D.No,I didn't used any servers to host web applications  
